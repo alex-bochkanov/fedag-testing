@@ -1,0 +1,18 @@
+.App {
+  text-align: justify;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 10px;
+}
+.completed {
+  text-decoration: line-through;
+  color:#676767;
+}
